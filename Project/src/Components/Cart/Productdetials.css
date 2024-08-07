@@ -1,0 +1,27 @@
+ .imageanddetails img{
+    
+    justify-content: center;
+    margin: 20px;
+ }
+.productviewdetails p{
+margin-left: 20px;
+display: flex;
+width: 600px;
+font-size: larger;
+font-weight: 900;
+}
+.price{
+    font-size: larger;
+    font-weight: bolder;
+    margin-left: 20px;
+}
+.pricedetails{
+    display: grid;
+    padding: 20px;
+
+}
+.weightdetails{
+    padding: 10px;
+    display: flex;
+/*     gap: 10px; */
+}

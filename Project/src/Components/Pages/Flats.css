@@ -1,0 +1,35 @@
+.collection-img span {
+    top: 16px;
+    right: 33px;
+    width: 37px;
+    height: 37px;
+    border-radius: 90%;
+}
+.imgfluid{
+    max-width: 100%;
+}
+.text-muted {
+    color: #9ea4a7 !important;
+}
+.bg-pink {
+    background-color: #E80071;
+}
+.section-title {
+    padding: 16px 0;
+}
+.section-title * {
+    font-size: 26px;
+}
+
+.ls-1 {
+    letter-spacing: 1px;
+}
+.fw-7 {
+    font-weight: 700;
+}
+.text-regal-pink {
+    color: #cc0f99;
+}
+.text-uppercase {
+    text-transform: uppercase;
+}

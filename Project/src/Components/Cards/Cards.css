@@ -1,0 +1,25 @@
+.section-title {
+    padding: 16px 0;
+}
+.section-title * {
+    font-size: 26px;
+}
+
+.ls-1 {
+    letter-spacing: 1px;
+}
+.fw-7 {
+    font-weight: 700;
+}
+.text-regal-blue {
+    color: #103755;
+}
+.text-uppercase {
+    text-transform: uppercase;
+}
+.img:hover{
+    
+    background: transparent;
+    transform: scale(1.1);
+    transition: 0.6s; 
+}
